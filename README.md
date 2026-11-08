@@ -1,4 +1,6 @@
-# Awesome-AI-Powered-Self-Service-Automation
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome AI-Powered Self-Service Automation" width="100%">
+</p>
 
 # Awesome-AI-Powered-Self-Service-Automation
 
